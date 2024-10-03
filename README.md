@@ -66,7 +66,7 @@ The project demonstrates the relationship between property prices and various fe
 *Figure 1: Regression line plotted against actual prices, illustrating the model's fit to the data.*
 
 #### b. Predicted vs. Actual Prices
-[![Predicted vs Actual Prices](Predicted_vs_Actual Price.png)](Predicted_vs_Actual Price.png)  
+[![Predicted vs Actual Prices](Predicted_vs_Actual_Price.png)](Predicted_vs_Actual_Price.png)  
 *Figure 2: Scatter plot showing predicted prices versus actual prices, highlighting the model's predictive power.*
 
 ## 🤝 Contributing
