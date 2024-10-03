@@ -62,11 +62,11 @@ The project involves the following steps:
 
 The project demonstrates the relationship between property prices and various features through regression analysis, providing key visualizations to illustrate findings.
 #### a. Regression Line
-[![Regression Line](images/regression_line.png)](images/regression_line.png)  
+[![Regression Line](Regression_line.png)](Regression_line.png)  
 *Figure 1: Regression line plotted against actual prices, illustrating the model's fit to the data.*
 
 #### b. Predicted vs. Actual Prices
-[![Predicted vs Actual Prices](images/predicted_vs_actual.png)](images/predicted_vs_actual.png)  
+[![Predicted vs Actual Prices](Predicted_vs_Actual Price.png)](Predicted_vs_Actual Price.png)  
 *Figure 2: Scatter plot showing predicted prices versus actual prices, highlighting the model's predictive power.*
 
 ## 🤝 Contributing
